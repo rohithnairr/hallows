@@ -1,0 +1,157 @@
+body{
+    padding: o;
+    margin:0;
+}
+.text1{
+
+
+font-family: Staatliches;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 100%;
+/* or 64px */
+
+text-align: center;
+
+color: #000000;}
+.tshirtw{
+    max-width: 410px;
+    width: 100%;
+    height: auto;
+}
+.container_f{
+ 
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.amount{
+    float: left;
+    font-family: Inter;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    display: block;
+    /* or 36px */
+    
+
+
+
+
+}
+.amount1{
+    float: left;
+    margin-top: 35%;
+    font-family: Inter;
+   
+
+
+  
+
+
+}
+
+.pric3{
+    
+}
+.price1{
+    float: right;
+    margin-top: 35%;
+}
+.price{
+    float: right;
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+/* identical to box height, or 29px */
+
+text-align: right;
+
+color: #000000
+}
+.pic34{
+    margin-right: 5px;
+}
+.top
+{
+    margin-top: 5% !important;
+}
+.text2{
+    margin-top: 10%;
+    text-align: center;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 150%;
+/* or 36px */
+
+text-align: center;
+letter-spacing: -0.03em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.al{
+    text-align: left;
+    margin-left: 16%;
+    margin-top: 13%;
+    
+}
+.connect_head{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+text-align: left;
+/* identical to box height, or 29px */
+
+letter-spacing: -0.03em;
+
+color: #000000;
+}
+.connect_body{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+/* or 36px */
+
+letter-spacing: -0.03em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.getstarted{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 1000 !important;
+    font-size: 16px;
+    line-height: 100%;
+    /* identical to box height, or 16px */
+    text-decoration: none;
+    
+    color: #000000;  
+}
+.bt{
+    margin-bottom: 20%;
+}
+
+
+.ccc{
+    border-bottom: 1px solid #C2CFE0;
+    
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+
+    .krish{
+        display: none!important;
+    }
+}
